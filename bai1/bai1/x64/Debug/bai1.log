@@ -1,0 +1,7 @@
+﻿  Kysu.cpp
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\lab44\bai1\bai1\Kysu.cpp(7,22): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+  Quanly.cpp
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\lab44\bai1\bai1\Quanly.cpp(7,21): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+  bai1.cpp
+  Generating Code...
+  bai1.vcxproj -> D:\Lê Anh Tuấn\Lập trình hướng đối tượng\lab44\bai1\x64\Debug\bai1.exe

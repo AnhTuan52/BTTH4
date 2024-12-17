@@ -1,0 +1,8 @@
+﻿  Bo.cpp
+  Cuu.cpp
+  De.cpp
+  Giasuc.cpp
+  main.cpp
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\lab44\bai3\bai3\main.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  bai3.vcxproj -> D:\Lê Anh Tuấn\Lập trình hướng đối tượng\lab44\bai3\x64\Debug\bai3.exe
