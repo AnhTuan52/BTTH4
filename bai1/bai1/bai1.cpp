@@ -45,5 +45,6 @@ int main() {
 		nv->Xuat();  // Gọi phương thức Xuat() của từng đối tượng
 
 	}
+
 	return 0;
 }
